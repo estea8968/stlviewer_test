@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=stlviewer
+GenericName=stl file viewer 
+Comment=stl file viewer
+Name[zh_TW]=stl看圖_stlviewer 
+GenericName[zh_TW]=看圖stl檔
+Comment[zh_TW]=看圖檔stl
+Exec=/usr/bin/stlviewer $1
+TryExec=
+Icon=stlviewer.png
+Terminal=false
+Type=Application
+MimeType=application/vnd.ms-3mfdocument;
+Categories=Graphics;
+Keywords=3D;Printing;
